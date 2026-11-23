@@ -1,0 +1,238 @@
+# 대사 글꼴(TALKCHR) 코드→글자 손 판독(2026-11-22, OCR 투표 vote.tsv 위에 덮어씀). 글자 그림을 48px 로 키운 work/ocr/sus_*.png 를 보고 판독.
+# 모양 같은 쌍(カ/力·二/ニ·ヤ/ャ·オ/ォ·ー/一·い/ぃ·へ/ヘ·ユ/ュ·遅/違·感/惑 등)은 문맥 검사(tools/decode_script.py)로 다시 가림.
+code	글자	비고
+7	ど
+11	が
+31	か
+41	大
+60	ぁ
+61	そ
+79	ボ
+92	胸
+110	義
+113	ぞ
+132	レ
+134	丸
+139	ぃ
+143	私
+154	ふ
+159	ぜ
+168	ず
+170	上
+171	小
+175	論
+190	む
+204	ぉ
+211	本
+215	力
+223	急
+240	嬉
+242	警
+255	ォ
+273	企
+278	良
+279	貧
+283	要
+286	譲
+294	失
+296	一
+312	明
+329	暮
+339	ぇ
+345	体
+362	貴
+363	命
+368	転
+410	ぢ
+412	散
+432	０
+442	過
+443	犬
+447	娘
+453	僧
+457	証
+469	観
+474	爛
+475	漫
+476	捨
+486	凶
+496	講
+502	追
+505	姿
+520	心
+526	嬢
+545	悔
+554	ヘ
+555	ポ
+577	ュ
+583	風
+588	余
+589	計
+592	巣
+611	質
+646	食
+658	眩
+659	惑
+667	瞳
+674	姉
+691	詫
+692	料
+693	恨
+695	杯
+703	Ｏ
+706	♡
+707	退
+716	妙
+731	積
+734	銃
+735	紙
+737	励
+744	容
+745	赦
+757	腕
+758	馴
+763	太
+771	性
+778	{G778}	그림 조각(버튼 아이콘 등) — 글자 아님
+779	{G779}	그림 조각
+780	{G780}	그림 조각
+781	{G781}	그림 조각
+782	{G782}	그림 조각
+783	{G783}	그림 조각
+55	ょ	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+59	ぎ	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+65	ば	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+84	ダ	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+98	じ	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+102	げ	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+106	ジ	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+116	シ	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+118	ぼ	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+124	ピ	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+126	ゴ	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+142	ガ	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+176	ご	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+198	ビ	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+203	カ	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+205	ャ	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+207	二	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+234	・	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+257	ギ	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+260	ズ	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+262	ヤ	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+263	ニ	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+264	ヲ	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+265	ヅ	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+266	セ	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+268	デ	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+275	ユ	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+288	間	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+317	合	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+336	ぷ	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+344	ェ	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+357	び	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+367	敗	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+399	伏	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+440	違	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+458	色	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+466	ぐ	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+546	台	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+584	情	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+606	取	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+661	ペ	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+688	ぅ	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+694	精	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+752	遅	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+772	依	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+773	闇	같은 글자 묶음 그림 대조(work/ocr/dups.png)
+10	奴	문맥+그림 대조(work/ocr/ctx_check.png)
+162	丈	문맥+그림 대조(work/ocr/ctx_check.png)
+163	夫	문맥+그림 대조(work/ocr/ctx_check.png)
+184	見	문맥+그림 대조(work/ocr/ctx_check.png)
+272	君	문맥+그림 대조(work/ocr/ctx_check.png)
+303	女	문맥+그림 대조(work/ocr/ctx_check.png)
+321	帰	문맥+그림 대조(work/ocr/ctx_check.png)
+376	裏	문맥+그림 대조(work/ocr/ctx_check.png)
+386	威	문맥+그림 대조(work/ocr/ctx_check.png)
+464	横	문맥+그림 대조(work/ocr/ctx_check.png)
+506	感	문맥+그림 대조(work/ocr/ctx_check.png)
+538	賞	문맥+그림 대조(work/ocr/ctx_check.png)
+609	蜂	문맥+그림 대조(work/ocr/ctx_check.png)
+81	タ	문맥+그림 대조(work/ocr/ctx_check2.png)
+147	和	문맥+그림 대조(work/ocr/ctx_check2.png)
+166	ぶ	문맥+그림 대조(work/ocr/ctx_check2.png)
+202	ル	문맥+그림 대조(work/ocr/ctx_check2.png)
+231	♡	문맥+그림 대조(work/ocr/ctx_check2.png)
+353	ぱ	문맥+그림 대조(work/ocr/ctx_check2.png)
+358	泣	문맥+그림 대조(work/ocr/ctx_check2.png)
+384	去	문맥+그림 대조(work/ocr/ctx_check2.png)
+391	覚	문맥+그림 대조(work/ocr/ctx_check2.png)
+392	悟	문맥+그림 대조(work/ocr/ctx_check2.png)
+395	宇	문맥+그림 대조(work/ocr/ctx_check2.png)
+400	数	문맥+그림 대조(work/ocr/ctx_check2.png)
+158	凄	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+298	母	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+323	村	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+326	迷	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+414	憂	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+434	冗	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+436	些	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+444	素	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+462	璧	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+463	浸	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+468	怖	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+477	貌	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+504	暴	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+517	元	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+539	稼	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+540	偉	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+542	惜	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+543	狙	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+547	詞	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+570	開	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+572	嘗	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+578	驚	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+581	愛	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+591	茶	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+610	慢	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+618	殺	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+622	愚	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+623	弄	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+625	辱	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+627	魔	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+639	鍛	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+644	眺	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+651	慰	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+655	兵	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+656	奇	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+660	険	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+666	虚	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+668	奥	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+678	郎	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+682	抗	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+697	雇	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+700	置	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+701	肩	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+705	裸	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+709	冒	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+714	刃	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+715	法	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+718	疲	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+720	滅	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+728	誤	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+729	扱	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+733	触	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+736	満	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+738	長	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+739	買	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+741	念	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+742	流	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+743	端	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+746	態	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+755	雑	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+759	詮	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+764	臆	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+765	阿	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+766	呆	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+767	昼	낮은 표 코드 전수 확인(work/ocr/risk_*.png)
+777	○	낮은 표 코드 전수 확인(work/ocr/risk_*.png)

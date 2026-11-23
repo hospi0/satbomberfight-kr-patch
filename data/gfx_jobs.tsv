@@ -1,0 +1,46 @@
+# 그림 글자 판 번역 초안(2026-11-23) — 파일·위치(16진)·폭·높이·원문·한글. 판 위치·크기 = work/sprites.tsv(스프라이트 정의 표) + 스테이트 짝짓기.
+# ⏳하스피 확인 전. 영문 판(OPTION·STORY MODE·HURRY UP 등)·숫자는 그대로. 이름 입력 자판·이름 글꼴은 따로 결정.
+file	off	w	h	ja	ko
+TITCHR.BIN	1EC80	88	8	ミニボン-ON/OFF	미니봄-ON/OFF
+TITCHR.BIN	1EDE0	96	8	シャッフル-ON/OFF	셔플-ON/OFF
+TITCHR.BIN	1EF60	104	8	バトルかいすう-1/3/5	배틀 횟수-1/3/5
+TITCHR.BIN	1F100	72	8	ステレオ/モノラル	스테레오/모노
+TITCHR.BIN	1F5E0	32	8	ステレオ	스테레오
+TITCHR.BIN	1F660	32	8	モノラル	모노
+TITCHR.BIN	217E0	72	56	(패드 A-TYPE 左上下右)	좌·상·하·우 → 왼·위·아래·오른
+TITCHR.BIN	21FC0	72	56	(패드 B-TYPE 左上下右)	왼·위·아래·오른
+TITCHR.BIN	22BA0	56	8	★たいりょく	★체력
+TITCHR.BIN	22C80	56	8	★わんりょく	★완력
+TITCHR.BIN	22D60	56	8	★どうりょく	★순발력(?)
+TITCHR.BIN	22E40	64	8	★キックりょく	★킥력
+TITCHR.BIN	3BEA0	352	88	プレイヤー / 2人対戦·3人対戦·4人対戦 / 戦·勝·敗	플레이어 / 2인 대전·3인 대전·4인 대전 / 전·승·패
+TITCHR.BIN	4D3A0	176	16	上書きしていいですか?	덮어써도 될까요?
+TITCHR.BIN	4D920	160	16	名前を決めて下さい!!	이름을 정해 주세요!!
+TITCHR.BIN	4DE20	144	16	これでいいですか?	이대로 괜찮나요?
+TITCHR.BIN	4EB20	224	16	キャラクターを決めて下さい!!	캐릭터를 정해 주세요!!
+TITCHR.BIN	4F220	192	16	ファイルを選んで下さい!!	파일을 골라 주세요!!
+TITCHR.BIN	569A0	64	16	(+)えらぶ	(+)선택
+TITCHR.BIN	56BA0	64	16	(B)もどる	(B)돌아가기
+TITCHR.BIN	56DA0	80	16	(A)とうろく	(A)등록
+TITCHR.BIN	57020	112	16	(X)(Y)(Z)とりけし	(X)(Y)(Z)취소
+PLSCHR.BIN	E460	64	16	2人でする!	2인 플레이!
+PLSCHR.BIN	E660	72	16	3人でする!	3인 플레이!
+PLSCHR.BIN	E8A0	72	16	4人でする!!	4인 플레이!!
+PLSCHR.BIN	31BA0	72	24	ミニボン-	미니봄-
+PLSCHR.BIN	31F00	72	16	シャッフル-	셔플-
+PLSCHR.BIN	32140	88	24	バトル回すう-	배틀 횟수-
+PLSCHR.BIN	32B20	40	16	1かい	1회
+PLSCHR.BIN	32C60	40	16	3かい	3회
+PLSCHR.BIN	32DA0	40	16	5かい	5회
+PLSCHR.BIN	3C600‥3F240 / PLS2.BIN 22108‥24D48	-	-	캐릭터 이름 15명(두 벌)	흰봄·검은봄·허니·코테츠·바그로·12호·G.봄버·페기 Jr·라지봄·푸이푸이·마미·레위시아·덴타·판프·데랄
+STGSPR.A	1A4A4	120	24	北の国から	북쪽 나라에서
+STGSPR.A	1AA44	80	24	いつもの	늘 하던 곳
+STGSPR.A	1AE04	104	24	戦火の宮殿	전화의 궁전
+STGSPR.A	1B2E4	176	24	お花畑でごいっしょに	꽃밭에서 함께
+STGSPR.A	1BB24	144	24	自然を大切にね!	자연을 소중히!
+STGSPR.A	1C1E4	112	24	名もなき古城	이름 없는 옛 성
+STGSPR.A	1C724	224	24	ザンティランドへようこそ	잔티랜드에 어서 오세요
+STGSPR.A	1D1A4	96	24	荒野の攻防	황야의 공방
+STGSPR.A	1D624	104	24	浮遊城の砦	부유성의 요새
+STGSPR.A	1DAE4	72	24	決戦!	결전!
+STGSPR.A	1DE84·1E224·1E644	88	24	おまけその1·2·3	보너스 1·2·3
